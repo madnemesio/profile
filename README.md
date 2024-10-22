@@ -35,6 +35,16 @@ Microsoft MOS Security in depth Certified 2018
 - Server administration of different OS like Windows, Linux, CentOS, SQL server and monitoring using different tools like prometheus and cloud logging.
 - Hands-on experience with UNIX scripting and optimizing performance, extracting and analyzing logs
 
+### CONOCER auditor consultant
+
+- Instructor for the EC-1120 certification based on information security, Local Area Networks designs and computer repairments. I was responsible for the certification process of the candidate and performing the evaluation to determine the results. Also I was responsible for the training sessions to cover the topics related to the certification.
+
+- Experience as a consultant in the implementation of NOM-035 and internal documentation that covers the fulfillment for all the requirements that it has. Experience with handling the data generated through the process. Modelated the resulting data in Looker and Power BI to present the results once the NOM has been adopted. 
+
+- Supported the operation for wireless internet service provider and Load Balancing using Mikrotik for VPNs and remote management with PRTG monitoring.  Implemented communication protocols and network infrastructure for securing data transmission using Ubiquiti airMAX wireless network solution, point to point and multipoint configuration.
+
+- Developed in Google solutions like Firebase, Flutter and Appsheet using GIT and Scrum methodology, to deliver high availability applications. During my time I collaborated on different projects like the implementation of AI using DialogFlow to automate the sales pipelines and the creation of dashboards to present the Data.
+
 
 
 
