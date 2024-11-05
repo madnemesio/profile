@@ -1,5 +1,5 @@
 # Profile
-As a full-stack developer with 3+ years of experience, he built and maintained scalable web applications using Node.js, Express.js and React. My passion lies in optimizing application performance and creating exceptional user experiences. In my last project, I developed an e-commerce platform that allowed a small business to increase its sales by 20% in the first quarter.
+As a Cloud engineer with 10+ years of experience, I have built and maintained scalable web applications using Node.js, Express.js and React. My passion lies in optimizing application performance and creating exceptional user experiences. In my last project, I developed an e-commerce platform that allowed a small business to increase its sales by 20% in the first quarter.
 
 I am an expert in the design and development of RESTful APIs, integration with relational and non-relational databases, and deployment in the cloud using AWS. Additionally, I have a solid understanding of TypeScript and am familiar with testing tools like Jest and Cypress. I am a great collaborator and enjoy working in agile teams. I am looking for a new challenge in a company where I can apply my skills and contribute to the growth of a product.
 
