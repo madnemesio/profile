@@ -57,6 +57,28 @@ Microsoft MOS Security in depth Certified 2018
   - Additionally, developing comprehensive documentation, training materials, and ongoing support for faculty and students, as well as continuously monitoring system performance and security to ensure optimal functionality.
 - Creating data analytics reports using Microsoft Power BI and Looker trough connecting various data sources, building data models to transform and clean the data, designing intuitive dashboards and visualizations that highlight key insights, and creating interactive reports with drill-down capabilities
 
+### Televisa Telecom / MM Redes - Network Associate
+
+- I collaborate by handling tickets to configure network devices like Cisco routers, switches, and Fortinet firewalls, troubleshooting network connectivity issues, monitoring network performance and security, documenting network configurations and procedures, and collaborating with other IT professionals to ensure smooth network operations.
+- Creating VLANs, assigning ports to specific VLANs, and configuring routing protocols to enable communication between different VLANs. 
+- Analyzing traffic patterns and network utilization, and conducting vulnerability scans to identify potential security risks.
+- Using SAP MM purchase module to review the content of PO of suppliers.
+
+### Gas Natural Fenosa - DBA Data Engineer
+
+- Collaborate on the data analysis for the customer’s monthly consumption and statistics regarding the operation, which was reported to regional the manager.
+- Extracting via SQL / UNIX data from nationwide servers, the reports include the customer’s consumption, and the KPI of the nation wide operation.
+- Create dashboards of KPI using Power Automate. Intern report to operational department using Access DB.
+- Creating and automating manual processes and metrics including the documentation and definition of business operation KPIs. Creating standardization around metrics for the TPS business operations.
+- Responsible for the operation of reading for each sector to process the customer consumption and generate records to the database.
+
+### Sigma Alimentos - DBA Data Engineer
+
+- Responsible for the logistics reports from self-service customers. Specifically Walmart, Soriana and HEB.
+- Elaboration of reports of the operations and service of the organization using AccessDB, Excel and SQL. The reports include the fill rate of each customer, the requirement and the delivery for each order in accordance to time schedules.
+- Worked doing business intelligence reports to present totals in logistics indicators and pivot tables, involving monthly reports, weekly reports and half-year reports.
+- Performed data analytics of logistics indicators, KPI and OKR, with the complete panorama of the production chain and the self service customers.
+- Management of self-service customer databases and logistics DB and information to coordinate the supply chain considering Distributions Centers and production plants to cover the demand.
 
 
 
