@@ -46,6 +46,18 @@ Microsoft MOS Security in depth Certified 2018
 - Developed in Google solutions like Firebase, Flutter and Appsheet using GIT and Scrum methodology, to deliver high availability applications. During my time I collaborated on different projects like the implementation of AI using DialogFlow to automate the sales pipelines and the creation of dashboards to present the Data.
 
 
+### SalesTech Latam / Graham Ross Training - Auditor Consultant
+
+- I started collaborating as a Support Engineer, for the CRM Creatio, which was deployed to provide customer interactions and the business development centers of clients to analyze the data.
+  - Supporting the operation of the CRM and system administration for handling client's requirements for new modules.
+  - Creating and modifying modules of the CRM to customize it for the end user, using a Scrum methodology ande developing on C#.
+  - Integrating the VoIP Systems to the CRM.
+- Also, I was responsible for the training session with customers and consulting activities for the team of 12 consultants, my functions include as a Project manager for the Autocom account, leading communication between the customerand IT CRM department.
+- Lead implementation of a Virtual University using a LMS on Linux Ubuntu in Google Cloud Platform and setting up secure access control, managing student enrollment and attendance, facilitating online learning activities, and ensuring smooth integration with video conferencing tools and communication channels. 
+  - Additionally, developing comprehensive documentation, training materials, and ongoing support for faculty and students, as well as continuously monitoring system performance and security to ensure optimal functionality.
+- Creating data analytics reports using Microsoft Power BI and Looker trough connecting various data sources, building data models to transform and clean the data, designing intuitive dashboards and visualizations that highlight key insights, and creating interactive reports with drill-down capabilities
+
+
 
 
 
